@@ -1,0 +1,13 @@
+{
+"companyName": "mapist",
+"productName": "Demo",
+"dataUrl": "Aga khan Web Demo.data.unityweb",
+"wasmCodeUrl": "Aga khan Web Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Aga khan Web Demo.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
